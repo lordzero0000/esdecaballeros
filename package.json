@@ -1,0 +1,17 @@
+{
+  "name": "esdecaballeros",
+  "version": "1.0.0",
+  "description": "Hacks!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Irving Gomez",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4",
+    "node-cron": "^1.2.1",
+    "twitter": "^1.7.1"
+  }
+}
